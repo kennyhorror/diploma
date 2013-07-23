@@ -1,4 +1,4 @@
-diploma
+Diploma
 =======
 
-Analysis of mental activity based on EEG
+Analysis of mental activity based on EEG.
